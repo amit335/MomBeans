@@ -1,0 +1,7 @@
+E:\MomBeans\MomBeans.Utility\bin\Debug\MomBeans.Utility.dll
+E:\MomBeans\MomBeans.Utility\bin\Debug\MomBeans.Utility.pdb
+E:\MomBeans\MomBeans.Utility\bin\Debug\log4net.dll
+E:\MomBeans\MomBeans.Utility\bin\Debug\log4net.xml
+E:\MomBeans\MomBeans.Utility\obj\Debug\MomBeans.Utility.csprojResolveAssemblyReference.cache
+E:\MomBeans\MomBeans.Utility\obj\Debug\MomBeans.Utility.dll
+E:\MomBeans\MomBeans.Utility\obj\Debug\MomBeans.Utility.pdb

@@ -1,0 +1,14 @@
+E:\MomBeans\MomBeans.DB\bin\Debug\MomBeans.DB.dll.config
+E:\MomBeans\MomBeans.DB\bin\Debug\MomBeans.DB.dll
+E:\MomBeans\MomBeans.DB\bin\Debug\MomBeans.DB.pdb
+E:\MomBeans\MomBeans.DB\bin\Debug\EntityFramework.dll
+E:\MomBeans\MomBeans.DB\bin\Debug\EntityFramework.SqlServer.dll
+E:\MomBeans\MomBeans.DB\bin\Debug\log4net.dll
+E:\MomBeans\MomBeans.DB\bin\Debug\MomBeans.Utility.dll
+E:\MomBeans\MomBeans.DB\bin\Debug\MomBeans.Utility.pdb
+E:\MomBeans\MomBeans.DB\bin\Debug\EntityFramework.xml
+E:\MomBeans\MomBeans.DB\bin\Debug\EntityFramework.SqlServer.xml
+E:\MomBeans\MomBeans.DB\bin\Debug\log4net.xml
+E:\MomBeans\MomBeans.DB\obj\Debug\MomBeans.DB.csprojResolveAssemblyReference.cache
+E:\MomBeans\MomBeans.DB\obj\Debug\MomBeans.DB.dll
+E:\MomBeans\MomBeans.DB\obj\Debug\MomBeans.DB.pdb

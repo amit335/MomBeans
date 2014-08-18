@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MomBeansModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Log">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Thread" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Level" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Logger" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Message" Type="varchar(max)" Nullable="false" />
+    <Property Name="Exception" Type="varchar(max)" />
+    <Property Name="UserAgent" Type="varchar" MaxLength="255" />
+    <Property Name="IPAddr" Type="varchar" MaxLength="32" />
+    <Property Name="URL" Type="varchar" MaxLength="4096" />
+    <Property Name="Referrer" Type="varchar" MaxLength="4096" />
+    <Property Name="User" Type="varchar" MaxLength="4096" />
+    <Property Name="ServerName" Type="varchar" MaxLength="256" />
+    <Property Name="SessionTable" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="MomBeansModelStoreContainer">
+    <EntitySet Name="Log" EntityType="Self.Log" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,14 @@
+E:\MomBeans\MomBeans.Models\bin\Debug\MomBeans.Models.dll.config
+E:\MomBeans\MomBeans.Models\bin\Debug\MomBeans.Models.dll
+E:\MomBeans\MomBeans.Models\bin\Debug\MomBeans.Models.pdb
+E:\MomBeans\MomBeans.Models\bin\Debug\EntityFramework.dll
+E:\MomBeans\MomBeans.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\MomBeans\MomBeans.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\MomBeans\MomBeans.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MomBeans\MomBeans.Models\bin\Debug\EntityFramework.xml
+E:\MomBeans\MomBeans.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\MomBeans\MomBeans.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\MomBeans\MomBeans.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MomBeans\MomBeans.Models\obj\Debug\MomBeans.Models.csprojResolveAssemblyReference.cache
+E:\MomBeans\MomBeans.Models\obj\Debug\MomBeans.Models.dll
+E:\MomBeans\MomBeans.Models\obj\Debug\MomBeans.Models.pdb

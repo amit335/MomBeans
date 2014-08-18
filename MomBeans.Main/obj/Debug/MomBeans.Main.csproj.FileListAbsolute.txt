@@ -53,3 +53,9 @@ E:\MomBeans\MomBeans.Main\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\MomBeans\MomBeans.Main\obj\Debug\MomBeans.Main.csprojResolveAssemblyReference.cache
 E:\MomBeans\MomBeans.Main\obj\Debug\MomBeans.Main.dll
 E:\MomBeans\MomBeans.Main\obj\Debug\MomBeans.Main.pdb
+E:\MomBeans\MomBeans.Main\bin\log4net.dll
+E:\MomBeans\MomBeans.Main\bin\MomBeans.Utility.dll
+E:\MomBeans\MomBeans.Main\bin\MomBeans.Utility.pdb
+E:\MomBeans\MomBeans.Main\bin\log4net.xml
+E:\MomBeans\MomBeans.Main\bin\MomBeans.Models.dll
+E:\MomBeans\MomBeans.Main\bin\MomBeans.Models.pdb
