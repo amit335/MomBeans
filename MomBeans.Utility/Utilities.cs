@@ -4,7 +4,7 @@
  * Created On   : 12/05/2014
  * Description  : This is a utility class to store constants
  *******************************************************************************/
-namespace AriRick.Utility
+namespace MomBeans.Utility
 {
     public static class Utilities
     {
@@ -14,6 +14,7 @@ namespace AriRick.Utility
         public static class Errors
         {
             public const string DefaultUserError = "Error Adding the default user for the Application: ";
+            public const string ReadError = "Error in Read: ";
         }
 
         /// <summary>

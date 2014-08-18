@@ -7,11 +7,11 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using AriRick.Utility;
 using MomBeans.DB.IRepository;
 using MomBeans.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using MomBeans.Utility;
 
 namespace MomBeans.DB.Repository
 {
